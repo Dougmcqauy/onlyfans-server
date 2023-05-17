@@ -1,7 +1,8 @@
-# f2f-server
+#onlyfans backend
+
+this repo has the code that connects the frontend to the data , handles elastic search
+very simple to run this one just need to install dependencies and run server.
 
 #npm install
-#npm start
+#node index
 
-#scrap for usernames GET /api/scrap
-#get usernames from db and scrap the accounts on OF GET /api/models
